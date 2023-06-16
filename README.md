@@ -52,3 +52,5 @@ Deploy my app to the free static page hosting service, GitHub Pages.
 - GitHub
 - console.log
 - [ytdec GitHub repository](https://github.com/ytdec)
+
+https://cscar43.github.io/Project-3/MongoDBHtml/templates/index.html
